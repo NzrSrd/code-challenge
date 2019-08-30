@@ -20,7 +20,8 @@ Create the following JavaScript application:
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `git clone`
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br>
